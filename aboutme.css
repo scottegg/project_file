@@ -1,0 +1,113 @@
+/** {
+	border: 2px solid lightgreen;
+}*/
+
+p {
+	color: darkorange;
+	font-size: 20px;
+}
+div p {
+	color: slateblue;
+}
+
+p span {
+	font-size: 10px;
+}
+
+.location {
+	color: mediumpurple;
+	font-size: 30px;
+	font-family: 'Vast Shadow', cursive;
+}
+
+#nc {
+	background-color: lavender;
+	color: tomato;
+	text-align: right;
+}
+
+a:hover {
+	text-decoration: none;
+	font-weight: bold;
+}
+a:visited {
+	color: turquoise;
+}
+
+ul {
+	list-style: circle;
+}
+
+li:first-child {
+	color: tomato;
+}
+
+li:last-child {
+	color: cornflowerblue;
+}
+
+h1::first-letter {
+	font-size: 80px;
+	color: green;
+}
+
+body {
+	background-image: url('http://www.mrwallpaper.com/wallpapers/gradient-background.jpg');
+	background-size: cover;
+}
+
+div {
+	background-color: rgba(255, 255, 255, .5);
+}
+
+div.font-example {
+	font-size: 16px;
+}
+
+.font-example p {
+	font-size: inherit;
+}
+
+.font-example .plus-1 {
+	font-size: 1.5em;
+}
+
+.font-example .plus-2 {
+	font-size: 2em;
+}
+
+h1 {
+	font-family: Georgia, Times New Roman, serif;
+}
+
+.borders {
+	height: 200px;
+	width: 200px;
+	background-color: #fff;
+	border: 5px solid violet;
+	border-radius: 50%;
+	text-align: center;
+	padding-top: 50px;
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+
+/*img {
+	width: 50%;
+	max-width: 800px;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+div {
+	height: 100px;
+	width: 200px;
+	border: 1px #000;
+	border-radius: 10px;
+	/*display: inline-block;*/
+	position: fixed;
+	z-index: -9999;
+}
+
+#red {
+	background-color: #ff0000;
+}
+
+#blue {
+	background-color: #0000ff;
+	left: 100px;
+}
+
+#green {
+	background-color: #00ff00;
+	left: 200px;
+}
+
+#yellow {
+	background-color: #fcf41e;
+	left: 300px;
+}
+
+p {
+	padding-top: 110px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
